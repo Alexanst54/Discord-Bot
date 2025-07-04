@@ -1,0 +1,29 @@
+# ✅ Checklist des fonctionnalités à ajouter à Rasputin Jr.
+
+- [ ] Commande `!xur` – localisation et inventaire de Xûr
+- [ ] Commande `!everversum` – objets en vente chez Tess Everis
+- [ ] Commande `!armes` – armes en rotation ou recommandées
+- [ ] Commande `!défis` – défis hebdomadaires (Vanguard, Gambit, etc.)
+- [ ] Commande `!reset` – résumé du reset hebdomadaire
+- [ ] Commande `!build` – builds populaires pour chaque classe
+- [ ] Commande `!lore` – extrait ou histoire du lore Destiny
+- [ ] Commande `!niveau` – système de niveaux/XP
+- [ ] Commande `!profil` – profil personnalisé du joueur
+- [ ] Commande `!rôle` – choix de rôles Discord (classe, plateforme)
+- [ ] Commande `!vote` – sondages ou votes
+- [ ] Commande `!suggestion` – boîte à idées communautaire
+- [ ] Commande `!traduire` – traduction de messages
+- [ ] Commande `!rappel` – rappels pour événements
+- [ ] Commande `!timer` – compte à rebours
+- [ ] Commande `!wiki` – recherche dans le wiki Destiny
+- [ ] Commande `!oracle` – prophétie aléatoire façon Osiris
+- [ ] Commande `!rng` – tirage aléatoire d’arme ou activité
+- [ ] Commande `!citation` – citation de personnage
+- [ ] Commande `!emote` – gif ou emote Destiny
+- [ ] Commande `!lang` – choix de langue pour le bot
+- [ ] Détection automatique de langue
+- [ ] Météo dynamique avec lieu personnalisé
+- [ ] Ajout automatique des rotations hebdomadaires
+- [ ] Commande `!ajouterrotation` – mise à jour manuelle des rotations
+- [ ] Intégration Twitch/YouTube – suivre les streamers Destiny
+- [ ] Planification de raids avec Google Calendar
