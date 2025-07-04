@@ -1,4 +1,4 @@
-# ✅ Checklist des fonctionnalités à ajouter à Rasputin Jr.
+# Checklist des fonctionnalités à ajouter.
 
 - [ ] Commande `!xur` – localisation et inventaire de Xûr
 - [ ] Commande `!everversum` – objets en vente chez Tess Everis
