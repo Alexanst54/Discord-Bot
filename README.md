@@ -1,2 +1,2 @@
-# Discord-Bot
-Some Trials about a Discord Destiny Bot
+# Rasputin Jr.
+Work in progress
